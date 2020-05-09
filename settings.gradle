@@ -1,0 +1,2 @@
+rootProject.name='WebViewNavigation'
+include ':app'
